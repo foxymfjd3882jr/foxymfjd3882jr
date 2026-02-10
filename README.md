@@ -44,14 +44,9 @@
   <b>╚════════════════════════════════════════════════════╝</b>
 </p>
 
-
 <p align="center">
   <b>🌙 Готов призвать магию: 🌙</b><br>
   Python · Node.js · Java · AI · FastAPI · Spring · TypeScript · Async
-</p>
-
-<p align="center">
-  <img src="https://thumbs.dreamstime.com/b/enchanting-black-cat-conjures-magical-energy-pixel-art-forest-illustration-depicts-adorned-purple-witch-hat-scarf-419695659.jpg" width="300" alt="Кот Борис вызывает магическую энергию">
 </p>
 
 <p align="center">
