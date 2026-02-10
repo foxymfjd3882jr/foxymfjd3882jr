@@ -59,7 +59,7 @@
   <img src="https://imgcdn.stablediffusionweb.com/2025/8/21/505dc730-b3a7-4b2b-99cd-b807aeda20d5.jpg" width="400" alt="Чёрный кот Борис с шампанским магии">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=D7BDEA&center=true&vCenter=true&width=680&lines=Мяу Мяу Мяу...;✦+Да+будет+магия!+✦" alt="Typing Boris Epic Magic">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=D7BDEA&center=true&vCenter=true&width=680&lines=Мяу+Мяу+Мяу...;✦+Да+будет+магия!+✦" alt="Typing Boris Epic Magic">
 </p>
 
 <hr style="border: 2px dashed #c9a0dc; margin: 60px 0;">
