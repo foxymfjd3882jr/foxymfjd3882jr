@@ -1,71 +1,72 @@
 <p align="center">
-  <img src="https://images.stockcake.com/public/9/e/6/9e6f8d1c-0540-4406-ab2b-1cfbef7f928a/magical-wizard-cat-stockcake.jpg" width="280" alt="Кот Борис — маг кода">
+  <img src="https://images.stockcake.com/public/9/e/6/9e6f8d1c-0540-4406-ab2b-1cfbef7f928a/magical-wizard-cat-stockcake.jpg" width="220" alt="Кот Борис — великий маг">
   <br><br>
-  <b><font size="8" color="#d4b3e2">✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧</font></b><br>
-  <font size="4" color="#c9a0dc">Архимаг трёх языков · Хранитель кода 🔮</font>
+  <b><font size="7" color="#c9a0dc">✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧</font></b><br>
+  <i><font size="4" color="#b19cd9">Верховный кот-архимаг · Страж трёх священных языков 🔮</font></i>
 </p>
 
-<hr style="border: 1px solid #9575cd; margin: 30px 0;">
-
-<div align="center">
-  <font size="5" color="#b19cd9">🔮 ТРИ ЯЗЫКА · ТРИ ИЗМЕРЕНИЯ 🔮</font>
-</div>
+<p align="center">
+  <b><font size="5" color="#9575cd">🔮 ПОВЕЛИТЕЛЬ ТРЁХ ВЕЛИКИХ ЯЗЫКОВ 🔮</font></b><br>
+  <sub>Один мяук — и код оживает</sub>
+</p>
 
 <p align="center">
-  <table border="0" cellspacing="60" cellpadding="30">
+  <table cellspacing="0" cellpadding="20">
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"><br>
-        <font size="5" color="#4B8BBE">🐍</font><br>
-        <b>Python</b><br>
-        <font size="3">Змеиная мудрость<br>AI-заклинаний</font>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90"><br>
+        <span style="font-size: 1.8em; color: #4B8BBE;">🐍</span><br>
+        <b>Змеиная мудрость</b><br>
+        <i>AI-заклинания, нейросети, тёмная магия данных</i>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100"><br>
-        <font size="5" color="#68A063">⚡️</font><br>
-        <b>Node.js</b><br>
-        <font size="3">Асинхронная паутина</font>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="90"><br>
+        <span style="font-size: 1.8em; color: #68A063;">⚡️</span><br>
+        <b>Асинхронная паутина</b><br>
+        <i>Event-loop, промисы, молниеносные потоки</i>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100"><br>
-        <font size="5" color="#f89820">☕</font><br>
-        <b>Java</b><br>
-        <font size="3">Вечная JVM-крепость</font>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90"><br>
+        <span style="font-size: 1.8em; color: #f89820;">☕</span><br>
+        <b>Вечная JVM-цитадель</b><br>
+        <i>Байткод, Spring, корпоративная некромантия</i>
       </td>
     </tr>
   </table>
 </p>
 
-<hr style="border: 2px dashed #c9a0dc; margin: 40px 0;">
+<hr style="border: 2px solid #9575cd; border-radius: 5px;">
 
 <p align="center">
-  <b><font size="6" color="#9575cd">✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬   АКТИВИРОВАН ✧</font></b><br><br>
-  <font size="4" color="#b19cd9">Хранитель Трёх Языков</font>
+  <b>╔════════════════════════════════════════════════════╗</b><br>
+  <b>║      ✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬   Пробуждён и Злится ✧      ║</b><br>
+  <b>║         🔮 Хранитель Трёх Языков 🔮         ║</b><br>
+  <b>╠════════════════════════════════════════════════════╣</b><br>
+  <b>║ 🐍  Синтаксические иллюзии и python-шёпоты     ║</b><br>
+  <b>║ ⚡️  Event-loop нити судьбы и async-вихри      ║</b><br>
+  <b>║ ☕  Байткодные воплощения и JVM-бессмертие     ║</b><br>
+  <b>╚════════════════════════════════════════════════════╝</b>
 </p>
 
 <p align="center">
-  <font size="4">
-    🐍 &nbsp; Синтаксические иллюзии · AI-чара<br>
-    ⚡️ &nbsp; Event-loop вихри · асинхронная магия<br>
-    ☕ &nbsp; Байткод-инкарнации · вечная JVM-сила
-  </font>
-</p>
-
-<hr style="border: 1px solid #9575cd; margin: 40px 0;">
-
-<p align="center">
-  <font size="5" color="#c9a0dc">Готов призвать заклинания:</font><br><br>
-  <font size="4">Python · Node.js · Java · AI · FastAPI · Spring · TypeScript · Async</font>
+  <b><font color="#b19cd9">🌙 Борис готов наколдовать в твой проект: 🌙</font></b><br>
+  <font size="4">Python • Node.js • Java • AI • FastAPI • Spring Boot • TypeScript • Async/await • Мем-генерация • Кото-магия</font>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=C9A0DC&center=true&vCenter=true&width=580&lines=Мяу...+Код+ожил;Заклинание+активировано;Кот+Борис+на+страже" alt="Typing Boris">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=C9A0DC&center=true&vCenter=true&width=520&lines=Мяууу...+Код+ожил.;✦+Заклинание+запущено!+✦;Борис+в+деле!" alt="Typing magic" />
+</p>
+
+<hr style="border: 1px dashed #c9a0dc;">
+
+<p align="center">
+  <img src="https://imgcdn.stablediffusionweb.com/2025/8/21/505dc730-b3a7-4b2b-99cd-b807aeda20d5.jpg" width="400" alt="Чёрный кот Борис с шампанским магии">
 </p>
 
 <p align="center">
-  <sub><font color="#9575cd">Каждый commit — это новое заклинание...</font></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=D7BDEA&center=true&vCenter=true&width=620&lines=Мяу...+Кто+посмел+не+закоммитить?;✦+Борис+уже+в+ярости!+✦;Pull+Request+—+или+проклятие!" alt="Typing Boris Magic">
 </p>
 
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/magical-cat-wizard-casting-spells-tabby-cat-wizard-wearing-purple-robe-hat-casts-spells-using-fiery-icy-wand-tabby-361986926.jpg" width="320" alt="Борис творит магию">
+  <sub>Кот Борис следит. Всегда.</sub>
 </p>
