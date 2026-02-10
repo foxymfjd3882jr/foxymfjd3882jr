@@ -65,5 +65,5 @@
 <hr style="border: 2px dashed #c9a0dc; margin: 60px 0;">
 
 <p align="center">
-  <sub>✦ Powered by infinite commits & кото-магия ✦</sub>
+  <sub>✦ Работает на добре и позитиве! Мяу Мяу Мяу :3 ✦</sub>
 </p>
