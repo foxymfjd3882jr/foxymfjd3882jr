@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=C9A0DC&center=true&vCenter=true&width=520&lines=Мяу...+Код+пробуждён!;✦+Да+будет+магия!+✦;Кот+Борис+активирован!" alt="Typing magic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=C9A0DC&center=true&vCenter=true&width=520&lines=Мяу...+Код+пробуждён!;✦+Да+будет+магия!+✦" alt="Typing magic" />
 </p>
 
 <hr style="border: 1px dashed #c9a0dc;">
