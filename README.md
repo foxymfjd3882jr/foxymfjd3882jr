@@ -66,7 +66,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=D7BDEA&center=true&vCenter=true&width=620&lines=Мяу...+Кто+посмел+не+закоммитить?;✦+Борис+уже+в+ярости!+✦;Pull+Request+—+или+проклятие!" alt="Typing Boris Magic">
 </p>
-
-<p align="center">
-  <sub>Кот Борис следит. Всегда.</sub>
-</p>
