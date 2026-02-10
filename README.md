@@ -2,9 +2,6 @@
   <img src="https://images.stockcake.com/public/9/e/6/9e6f8d1c-0540-4406-ab2b-1cfbef7f928a/magical-wizard-cat-stockcake.jpg" width="220" alt="Кот Борис — великий маг">
   <br><br>
   <b><font size="7" color="#c9a0dc">✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧</font></b><br>
-  <i><font size="4" color="#b19cd9">🔮 Страж трёх священных языков 🔮</font></i>
-</p>
-
 <p align="center">
   <b><font size="5" color="#9575cd">🔮 ПОВЕЛИТЕЛЬ ТРЁХ ВЕЛИКИХ ЯЗЫКОВ 🔮</font></b><br>
   <sub>Один мяу — и код оживает</sub>
