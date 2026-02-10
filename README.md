@@ -7,7 +7,7 @@
 
 <p align="center">
   <b><font size="5" color="#9575cd">🔮 ПОВЕЛИТЕЛЬ ТРЁХ ВЕЛИКИХ ЯЗЫКОВ 🔮</font></b><br>
-  <sub>Один мяук — и код оживает</sub>
+  <sub>Один мяу — и код оживает</sub>
 </p>
 
 <p align="center">
