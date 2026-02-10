@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/ginger-cat-wizard-casting-spell-star-wand-magical-forest-adorable-wearing-hat-casts-spells-amid-backdrop-fantasy-art-363675105.jpg" width="320" alt="Кот Борис творит заклинание">
-</p>
-
-<p align="center">
   <b>🔮 ВЛАСТЕЛИН ТРЁХ ЯЗЫКОВ 🔮</b>
 </p>
 
@@ -48,12 +44,6 @@
   <b>╚════════════════════════════════════════════════════╝</b>
 </p>
 
-<p align="center">
-  <img src="https://images.stockcake.com/public/b/7/e/b7edb45d-4e50-40aa-9eaf-355cec97ee64/magical-wizard-cat-stockcake.jpg" width="280" alt="Кот Борис в полёте магии">
-  <br><br>
-  <i>「Каждый commit — это новое заклинание...」</i><br>
-  <sub>~ Кот Борис, повелитель трёх измерений кода</sub>
-</p>
 
 <p align="center">
   <b>🌙 Готов призвать магию: 🌙</b><br>
