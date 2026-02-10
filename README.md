@@ -1,41 +1,27 @@
-# ✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧ 🔮 - Магический хранитель кода
+# ✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧ 🔮 — Магический хранитель кода
 
-```python
-class ВолшебныйКот:
-    def __init__(self):
-        self.имя = "✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧"
-        self.титул = "🔮 Хранитель Трех Языков 🔮"
-        self.иконки = {
-            'python': 'https://images.icon-icons.com/112/PNG/96/python_18894.png',
-            'nodejs': 'https://images.icon-icons.com/2415/PNG/96/nodejs_plain_logo_icon_146409.png',
-            'java': 'https://images.icon-icons.com/2415/PNG/96/java_original_wordmark_logo_icon_146459.png'
-        }
-    
-    def показать_силу(self):
-        python_icon = "![Python](https://images.icon-icons.com/112/PNG/96/python_18894.png)"
-        nodejs_icon = "![Node.js](https://images.icon-icons.com/2415/PNG/96/nodejs_plain_logo_icon_146409.png)"
-        java_icon = "![Java](https://images.icon-icons.com/2415/PNG/96/java_original_wordmark_logo_icon_146459.png)"
-        
-        return f"""
-        {python_icon} | Змеиная мудрость AI-заклинаний
-        {nodejs_icon} | Паутина асинхронных миров
-        {java_icon} | Вечная крепость JVM-магии
-        """
-    
-    def создать_заклинание(self):
-        return f"""
-        ╔═══════════════════════════════════════╗
-        ║         {self.имя} АКТИВИРОВАН        ║
-        ║         {self.титул}                  ║
-        ╠═══════════════════════════════════════╣
-        ║  ![Py](https://images.icon-icons.com/112/PNG/32/python_18894.png)  •  Синтаксические иллюзии   ║
-        ║  ![Node](https://images.icon-icons.com/2415/PNG/32/nodejs_plain_logo_icon_146409.png)  •  Event-loop паутины ║
-        ║  ![Java](https://images.icon-icons.com/2415/PNG/32/java_original_wordmark_logo_icon_146459.png)  •  Байткод-инкарнации ║
-        ╚═══════════════════════════════════════╝
-        """
+<p align="center">
+  <b>🔮 Хранитель Трёх Языков 🔮</b><br><br>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python">
+  <span style="font-size:1.4em; margin: 0 16px;">→ Змеиная мудрость AI-заклинаний</span><br><br>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" alt="Node.js">
+  <span style="font-size:1.4em; margin: 0 16px;">→ Паутина асинхронных миров</span><br><br>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java">
+  <span style="font-size:1.4em; margin: 0 16px;">→ Вечная крепость JVM-магии</span>
+</p>
 
-# Призыв кота
-кот = ВолшебныйКот()
-print(кот.создать_заклинание())
-print("Силы кота:")
-print(кот.показать_силу())
+<hr>
+
+<p align="center">
+╔════════════════════════════════════════════╗<br>
+║&nbsp;&nbsp;&nbsp;&nbsp;✧ 𝐊𝐨𝐭 𝐁𝐨𝐫𝐢𝐬 ✧ АКТИВИРОВАН&nbsp;&nbsp;&nbsp;&nbsp;║<br>
+║&nbsp;&nbsp;&nbsp;🔮 Хранитель Трех Языков 🔮&nbsp;&nbsp;&nbsp;║<br>
+╠════════════════════════════════════════════╣<br>
+║&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"> • Синтаксические иллюзии&nbsp;&nbsp;&nbsp;║<br>
+║&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"> • Event-loop паутины&nbsp;&nbsp;&nbsp;║<br>
+║&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32"> • Байткод-инкарнации&nbsp;&nbsp;&nbsp;║<br>
+╚════════════════════════════════════════════╝
+</p>
