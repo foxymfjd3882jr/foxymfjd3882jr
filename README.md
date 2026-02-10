@@ -14,19 +14,19 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90"><br>
         <span style="font-size: 1.8em; color: #4B8BBE;">🐍</span><br>
         <b>Змеиная мудрость</b><br>
-        <i>AI-заклинания, нейросети, тёмная магия данных</i>
+        <i>Боты,сайты,и многое другое.</i>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="90"><br>
         <span style="font-size: 1.8em; color: #68A063;">⚡️</span><br>
         <b>Асинхронная паутина</b><br>
-        <i>Event-loop, промисы, молниеносные потоки</i>
+        <i>Промисы, потоки</i>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90"><br>
         <span style="font-size: 1.8em; color: #f89820;">☕</span><br>
         <b>Вечная JVM-цитадель</b><br>
-        <i>Байткод, Spring, корпоративная некромантия</i>
+        <i>Байткод</i>
       </td>
     </tr>
   </table>
